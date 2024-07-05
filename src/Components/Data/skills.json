@@ -1,0 +1,38 @@
+[
+  {
+    "title": "HTML",
+    "imageSrc": "https://cdn-icons-png.flaticon.com/256/174/174854.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "https://seeklogo.com/images/C/css-3-logo-AF06D75231-seeklogo.com.png"
+  },
+  {
+    "title": "JavaScript",
+    "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/768px-JavaScript-logo.png"
+  },
+  {
+    "title": "React",
+    "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png"
+  },
+  {
+    "title": "Python",
+    "imageSrc": "https://w7.pngwing.com/pngs/140/948/png-transparent-blue-and-yellow-logo-python-logo-programmer-fierce-python-s-cdr-angle-text-thumbnail.png"
+  },
+  {
+    "title":"C++",
+    "imageSrc": "https://w7.pngwing.com/pngs/46/626/png-transparent-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template-blue.png"
+  },
+  {
+    "title": "Java",
+    "imageSrc": "https://w7.pngwing.com/pngs/578/816/png-transparent-java-class-file-java-platform-standard-edition-java-development-kit-java-runtime-environment-coffee-jar-text-class-orange-thumbnail.png"
+  },
+  {
+    "title": "Django",
+    "imageSrc": "https://w7.pngwing.com/pngs/159/366/png-transparent-django-python-computer-icons-logo-python-text-label-rectangle-thumbnail.png"
+  },
+  {
+    "title": "Matlab Simulink",
+    "imageSrc": "https://w7.pngwing.com/pngs/277/748/png-transparent-matlab-mathworks-simulink-computer-software-eigenfunction-deep-learning-angle-triangle-orange.png"
+   }
+]
